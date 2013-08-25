@@ -21,7 +21,7 @@ Todo
 * Options (music volume
 * HUD (turns)
 
-Todo
+License
 -------------------------
 All code and Graphics: CC BY
 Music by Amygdala: CC BY-NC http://www.ektoplazm.com/free-music/amygdala-modus-operandi
